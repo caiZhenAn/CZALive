@@ -123,7 +123,7 @@ extension PageTitleView{
 }
 
 extension PageTitleView{
-    func setTieleWithProgress(_ progress:CGFloat,sourceIndex:Int,targetIndex:Int) {
+    func setTitleWithProgress(_ progress:CGFloat,sourceIndex:Int,targetIndex:Int) {
         
         let sourceLabel = titleLabels[sourceIndex]
         let targetLabel = titleLabels[targetIndex]
