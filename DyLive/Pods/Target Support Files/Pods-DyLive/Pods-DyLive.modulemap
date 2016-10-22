@@ -1,0 +1,6 @@
+framework module Pods_DyLive {
+  umbrella header "Pods-DyLive-umbrella.h"
+
+  export *
+  module * { export * }
+}
